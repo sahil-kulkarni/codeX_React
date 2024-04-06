@@ -1,0 +1,28 @@
+.title{
+
+    text-align: center;
+}
+
+.container{
+
+        height: 200px;
+        width: 200px;
+        background-color: red;
+        margin-top: 20px;
+        margin-right: 20px;
+        
+    
+}
+
+.first-row{
+
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.second-row{
+
+    display: flex;
+    justify-content: space-evenly;
+}
